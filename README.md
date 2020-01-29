@@ -1,6 +1,6 @@
 # The Billie Project
 
-Generating song lyric mashups of Billie Eilish, Billie Holiday, Billy Joel, Billy Idol, [others] with Neural Networks by web scraping and using natural language processing on available lyrics.
+Generating song lyric mashups of Billie Eilish, Billie Holiday, Billy Joel, Billy Idol, and Billy Ray Cyrus with Neural Networks by web scraping and using natural language processing on available lyrics.
 
 
 ## Contributors
